@@ -1,8 +1,11 @@
-School Department Website Project
+# School Department Website Project
 
-Project Overview
+<img src="grad.png" width="85%">
+> a school of excellence 
 
-This project aims to develop a modern, user-friendly website for a school department, showcasing its activities, achievements, and resources. The website will serve as a central hub for students, teachers, and parents to access important information, news, and updates.
+## Project Overview
+
+This project aims to develop a modern, user-friendly website for  department, showcasing its activities, achievements, and resources. The website will serve as a central hub for students, teachers, and parents to access important information, news, and updates.
 
 Project Team
 
@@ -55,6 +58,4 @@ For any questions or inquiries, please contact:
 
 Disclaimer
 
-This website is designed and developed for educational purposes only. [School Department Name] is not responsible for the content or accuracy of this website.
-
-Feel free to customize this README to fit your project's specific needs!
+This website is designed and developed for educational purposes only.  is not responsible for the content or accuracy of this website.
